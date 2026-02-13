@@ -99,21 +99,25 @@ Dataset is large and not included in this repository.
 
 ---
 ### 📸 Screenshots
+
 ## SHAP Explainability
 <p align="center">
-  <img src="screenshots/shap.png" width="45%" />
+  <img src="screenshots/shap.png" width="47%" />
 </p>
+
 ## ROC Curve
 <p align="center">
-  <img src="screenshots/roc.png" width="45%" />
+  <img src="screenshots/roc.png" width="47%" />
 </p>
+
 ## Confusion Matrix
 <p align="center">
-  <img src="screenshots/confusion matrix.png" width="45%" />
+  <img src="screenshots/confusion matrix.png" width="47%" />
 </p>
+
 ## Fraud Probability
 <p align="center">
-  <img src="screenshots/fraud prabability.png" width="45%" />
+  <img src="screenshots/fraud prabability.png" width="47%" />
 </p>
 
 
