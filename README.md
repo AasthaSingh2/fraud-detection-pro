@@ -79,6 +79,9 @@ streamlit run app.py
 * Model: RandomForestClassifier (class_weight='balanced')
 * Evaluation: ROC curve, confusion matrix, classification report
 * Dataset is highly imbalanced → threshold tuning is critical
+<p align="center">
+  <img src="screenshots/model performance.png" width="45%" />
+</p>
 
 ---
 
@@ -95,13 +98,23 @@ creditcard fraud dataset mlg-ulb
 Dataset is large and not included in this repository.
 
 ---
-## Screenshots
-shap explanbility 
+### 📸 Screenshots
+## SHAP Explainability
 <p align="center">
   <img src="screenshots/shap.png" width="45%" />
 </p>
-
-
+## ROC Curve
+<p align="center">
+  <img src="screenshots/roc.png" width="45%" />
+</p>
+## Confusion Matrix
+<p align="center">
+  <img src="screenshots/confusion matrix.png" width="45%" />
+</p>
+## Fraud Probability
+<p align="center">
+  <img src="screenshots/fraud prabability.png" width="45%" />
+</p>
 
 
 ## 🚀 Future Improvements
