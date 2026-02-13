@@ -95,11 +95,6 @@ creditcard fraud dataset mlg-ulb
 Dataset is large and not included in this repository.
 
 ---
-## SHAP Explainability
-![SHAP](screenshots/shap.png)
-
-
-
 ## 🚀 Future Improvements
 
 * Batch CSV fraud prediction
@@ -113,5 +108,3 @@ Dataset is large and not included in this repository.
 
 **Aastha Singh**
 GitHub: [https://github.com/AasthaSingh2](https://github.com/AasthaSingh2)
-
-````
