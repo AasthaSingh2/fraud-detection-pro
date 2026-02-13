@@ -1,7 +1,5 @@
-# Ignore dataset and large files
 data/
 *.csv
-X_train.pkl
-X_test.pkl
-y_test.pkl
 .ipynb_checkpoints/
+__pycache__/
+*.pyc
