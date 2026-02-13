@@ -95,6 +95,10 @@ creditcard fraud dataset mlg-ulb
 Dataset is large and not included in this repository.
 
 ---
+## SHAP Explainability
+![SHAP](screenshots/shap.png)
+
+
 
 ## 🚀 Future Improvements
 
